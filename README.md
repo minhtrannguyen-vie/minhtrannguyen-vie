@@ -1,5 +1,8 @@
 ## <div align="center">  Awnhon 👋 I'm MeoMeows
- ![My Animation]( https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI1MGQ2Mmczd3gweDN2dTU3aHF0MzV3M3A0am5udGpiMXhhZzd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SruFaLmWflW5EqM8W8/giphy.gif)
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI1MGQ2Mmczd3gweDN2dTU3aHF0MzV3M3A0am5udGpiMXhhZzd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SruFaLmWflW5EqM8W8/giphy.gif" />
+</p>
+ 
 ## 💻 My Skills
  SLEEP 
 ## 📫 Contact me 
@@ -8,11 +11,11 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTranNguyens&layout=compact&theme=buefy&langs_count=10" />
+  <img src="NULL" />
 </p>
 
 ## ⚙️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhTranNguyens&show_icons=true&theme=buefy&count_private=true" />
+  <img src="NULL" />
 </p>

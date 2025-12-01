@@ -4,11 +4,12 @@
 </p>
  
 ## 💻 My Skills
+<p algn="center">
 SLEEP
+</p>
 ## 📫 Contact me 
-- (Facebook):(https://www.facebook.com/minh.tran.nguyen.10836/)
-- (Gmail):(MinhTranNguyen.js@gmail.com)
-- 
+- Facebook: (https://www.facebook.com/minh.tran.nguyen.10836/)
+- Gmail: (MinhTranNguyen.js@gmail.com)
 ## 📊 Most Used Languages
 
 <p align="center">
